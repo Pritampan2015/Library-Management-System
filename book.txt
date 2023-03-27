@@ -1,0 +1,41 @@
+5
+100
+Feluda
+Satyajit Ray
+SJP
+3\e
+500
+1000
+4
+200
+Arihant
+O P Tandon
+ArihantPUB
+1\e
+1200
+1500
+2
+201
+Nuclear Physics
+S Kumar
+MC_Graw_HILL
+5\e
+1700
+2000
+9
+500
+Nonte and Fonte
+A Bhaduri
+Local
+9\e
+50
+100
+30
+1000
+DSA
+Coreman
+MCGRAWHILL
+3\e
+1700
+3000
+8
